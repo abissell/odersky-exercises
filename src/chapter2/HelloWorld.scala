@@ -14,6 +14,6 @@ object HelloWorld {
 		// msg = "Goodbye cruel world!"
 
 		var greeting = "Hello, world!"
-		greeting = "Leave me alone, world!!"
+		greeting = "Leave me alone, world"
 	}
 }
