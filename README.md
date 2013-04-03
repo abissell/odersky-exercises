@@ -3,7 +3,7 @@ odersky-exercises
 
 Exercises from "Programming in Scala" by Odersky et al
 
-Copyright [2013] [Andrew Bissell]
+Copyright 2013 Andrew Bissell
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
